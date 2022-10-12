@@ -17,8 +17,8 @@ body {
 h1 {
 	background-color:rgb(154,153,168);
 	color:rgb(251,250,250);
-	font-size:4rem;
-	padding:3rem 2rem .1rem; 
+	font-size:3rem;
+	padding:3rem 1rem .5rem; 
 	font-weight:bold;
 	text-transform:uppercase;
 }
@@ -34,15 +34,15 @@ h1 span {
 h2 {
 	background-color:rgb(154,153,168);
 	color: rgb(251,250,250);
-	font-size:3rem;
-	padding: 2rem;
+	font-size:2.5rem;
+	padding:2rem 1rem 1.5rem; 
 	font-family: serif;
 	font-weight:bold;
 }
 
 
 h3 {
-	margin:2rem 2rem 1.5rem; 
+	margin:2rem 1rem 1.5rem; 
 	padding-top:1rem;
 	font-size:1.5rem;
 	color:rgb(172, 50, 43);
@@ -65,7 +65,7 @@ p.price {
 }
 
 ul {
-	margin: 1rem 1rem 1rem;
+	margin: .1rem .1rem .1rem;
     list-style: none;
 }
 
